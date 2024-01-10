@@ -9,13 +9,13 @@
 <h3>Programming Languages: </h3>
 <p align="left">
 
-<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg alt=js width="60" height="60"/>
+<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="60" height="60"/>
  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt=python width="60" height="60"/>
 </p>
 
 <h3>IDE's  </h3>
 <p align="left">
- <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg alt=pycharm width="60" height="60"/>
+ <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg alt=intellij width="60" height="60"/>
  <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
 </p>
 
