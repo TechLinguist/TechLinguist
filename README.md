@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhvani
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and DSA
+- 🌱 I’m currently learning MERN Stack and DSA
 - 📫 How to reach me [Gmail](mailto:dhvanicp15@gmail.com)
 - 😄 Pronouns: She/Her
 
