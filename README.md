@@ -1,30 +1,64 @@
-- 👋 Hi, I’m Dhvani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning MERN Stack and DSA
-- 📫 How to reach me [Gmail](mailto:dhvanicp15@gmail.com)
-- 😄 Pronouns: She/Her
+## Hi, I’m Dhvani Patel 👋
 
-<br/>
-<br/>
-<h3>Programming Languages: </h3>
-<p align="left">
+**Computer Science Undergraduate | Full-Stack (MERN) & AI-Driven Development Enthusiast**
 
-<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="60" height="60"/>
- <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt=python width="60" height="60"/>
-</p>
+I am a Computer Science undergraduate passionate about building **scalable full-stack applications** and **AI-driven solutions**. Currently gaining hands-on experience in the **MERN stack**, **machine learning**, and **deep learning** through real-world projects that translate ideas into functional products. I am eager to contribute to innovative teams, learn from industry professionals, and apply my technical skills to practical challenges.
 
-<h3>IDE's  </h3>
-<p align="left">
- <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg alt=intellij width="60" height="60"/>
- <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
-</p>
+---
 
-<p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=TechLinguist&show_icons=true alt=dcp /> 
-</p>
+### 🔧 Technical Skills
 
-❤ From [Dhvani patel](https://github.com/TechLinguist) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<!---
-TechLinguist/TechLinguist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend**
+- HTML, CSS, JavaScript, React.js
+
+**Backend**
+- Node.js, Express.js, Flask
+
+**Database**
+- MongoDB, SQL
+
+**Programming Languages**
+- Python, Java, C++
+
+**Tools & Platforms**
+- Git, GitHub, VS Code, IntelliJ IDEA
+
+---
+
+### 🚀 Featured Projects
+
+**🔹 PrimaCheck – DeepFake Detection Software**  
+*Python, React.js, Flask, MongoDB, Deep Learning*  
+- Developed a system to detect deepfake **audio, video, and images** using deep learning and machine learning models.  
+- Integrated a React front end with Flask and Node.js backends for real-time media analysis.  
+- Collaborated on dataset design, model training, and evaluation to improve detection accuracy.  
+🔗 https://github.com/TechLinguist/PrimaCheck--DeepFake-Detection-Software
+
+**🔹 Precision – Price Optimizer**  
+*Python, Machine Learning*  
+- Built a machine learning model to optimize product pricing using sales data, demand trends, and competitor benchmarks.  
+- Generated actionable pricing insights through data visualization for business decision-making.
+
+**🔹 Music Website**  
+*HTML, CSS, JavaScript*  
+- Developed a responsive music streaming website with search by artist/genre, playlists, and audio player controls.  
+- Focused on clean UI/UX for an immersive user experience.  
+🔗 https://github.com/TechLinguist/Music-Website
+
+---
+
+### 📚 Certifications
+- Computer Networks – NPTEL  
+- Database and SQL – Infosys  
+- Deep Learning with Neural Networks – Udemy
+
+---
+
+### 📫 Connect With Me
+- **Email:** dhvanicp15@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/patel-dhvani  
+- **LeetCode:** https://leetcode.com/u/Techincline/
+
+---
+
+⭐ *Actively learning, building, and improving through hands-on development.*
