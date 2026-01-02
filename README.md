@@ -16,12 +16,12 @@
   </a>
 </p>
 
+
 ---
 
 ## 👩‍💻 About Me
-
 I am a **Computer Science undergraduate** with a strong interest in **full-stack development and AI-driven applications**.  
-I am currently building hands-on experience in the **MERN stack**, **machine learning**, and **deep learning** through real-world projects that translate ideas into functional, scalable solutions.
+Currently building hands-on experience in the **MERN stack**, **machine learning**, and **deep learning** through real-world projects that translate ideas into functional, scalable solutions.  
 
 I enjoy learning by building, collaborating in teams, and continuously improving my technical depth.
 
@@ -29,69 +29,71 @@ I enjoy learning by building, collaborating in teams, and continuously improving
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />  
+  <!-- <br/> HTML • CSS • JavaScript • React -->
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />  
+  <!-- <br/> Node.js • Express.js • Flask -->
 </p>
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,eclipse,postman" />  
+  <!-- <br/> MongoDB • MySQL • Git • GitHub • VS Code • Eclipse • Postman -->
 </p>
 
-### Programming Languages
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />  
+  <!-- <br/> Python • Java • C++ -->
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 PrimaCheck – DeepFake Detection Software  
-**Python | React.js | Flask | MongoDB | Deep Learning**  
-- Developed a system to detect deepfake **audio, video, and images** using machine learning and deep learning models.  
-- Integrated a React front end with Flask and Node.js backends for real-time media analysis.  
-- Collaborated on dataset design, model training, and accuracy evaluation.  
-🔗 https://github.com/TechLinguist/PrimaCheck--DeepFake-Detection-Software  
+**Tech Stack:** Python | React.js | Flask | MongoDB | Deep Learning  
+
+🧠 Developed a system to detect deepfake **audio, video, and images** using ML/DL models.  
+⚙️ Integrated React front end with Flask & Node.js backends for real-time analysis.  
+📂 Collaborated on dataset design, model training, and accuracy evaluation.  
+🔗 [GitHub Repository](https://github.com/TechLinguist/PrimaCheck--DeepFake-Detection-Software)  
 
 ---
 
 ### 🔹 Precision – Price Optimizer  
-**Python | Machine Learning**  
-- Built a machine learning model to optimize product pricing based on sales data, demand trends, and competitor benchmarks.  
-- Generated actionable pricing insights to support data-driven business decisions.
+**Tech Stack:** Python | Machine Learning  
+
+📊 Built a machine learning model to optimize product pricing based on sales data, demand trends, and competitor benchmarks.  
+💡 Generated actionable pricing insights to support data-driven business decisions.  
 
 ---
 
 ### 🔹 Music Website  
-**HTML | CSS | JavaScript**  
-- Developed a responsive music streaming website with search, playlists, and audio player controls.  
-- Focused on clean UI/UX for an immersive user experience.  
-🔗 https://github.com/TechLinguist/Music-Website  
+**Tech Stack:** HTML | CSS | JavaScript  
+
+🎵 Developed a responsive music streaming website with search, playlists, and audio player controls.  
+🎨 Focused on clean UI/UX for an immersive user experience.  
+🔗 [GitHub Repository](https://github.com/TechLinguist/Music-Website)  
 
 ---
 
 ## 📜 Certifications
 - Computer Networks – NPTEL  
 - Database and SQL – Infosys  
-- Deep Learning with Neural Networks – Udemy  
+- Deep Learning with Neural Networks – Udemy
 
 ---
+
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechLinguist&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechLinguist&layout=compact&theme=transparent" height="160"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution snake"/>
